@@ -1,4 +1,4 @@
-# Regitra
+# License plate reservation
 Selenium bot used to reserve license plates
 
 Works with Selenium 4.2.0
